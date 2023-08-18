@@ -3,7 +3,7 @@ layout: assignment
 due: 2023-05-02 23:59:59 -0800
 permalink: assignments/lab08.html
 title: Lab08 - HTTP server part 2
-github_url: https://classroom.github.com/a/48WI6NRj
+# github_url: https://classroom.github.com/a/48WI6NRj
 ---
 
 ## Requirements

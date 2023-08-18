@@ -3,7 +3,7 @@ layout: assignment
 due: 2023-02-07 23:59:59 -0800
 permalink: assignments/lab02.html
 title: Lab02 - Strings
-github_url: https://classroom.github.com/a/zkJj7JYD
+# github_url: https://classroom.github.com/a/zkJj7JYD
 ---
 ## Requirements
 1. You will develop the C code and a `Makefile` which builds one executable

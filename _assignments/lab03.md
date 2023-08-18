@@ -3,7 +3,7 @@ layout: assignment
 due: 2023-02-21 23:59:59 -0800
 permalink: assignments/lab03.html
 title: Lab03 - Files, struct
-github_url: https://classroom.github.com/a/uYNNbcUN
+# github_url: https://classroom.github.com/a/uYNNbcUN
 ---
 
 ## Background

@@ -3,7 +3,7 @@ layout: assignment
 due: 2023-04-04 23:59:59 -0800
 permalink: assignments/lab05.html
 title: Lab05 - Scanning
-github_url: https://classroom.github.com/a/wEE79NdX
+# github_url: https://classroom.github.com/a/wEE79NdX
 ---
 
 ## Background
