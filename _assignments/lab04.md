@@ -3,7 +3,7 @@ layout: assignment
 due: 2023-03-07 23:59:59 -0800
 permalink: assignments/lab04.html
 title: Lab04 - Tic-Tac-Toe
-github_url: https://classroom.github.com/a/jP7xMMqU
+# github_url: https://classroom.github.com/a/jP7xMMqU
 ---
 
 ## Requirements
