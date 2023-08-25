@@ -4,6 +4,24 @@ permalink: docs/ssh-stargate-setup.html
 title: SSH Stargate Setup
 ---
 
+## Step 0: Set up your terminal environment
+
+1. If you are not familiar with the Unix shell, please review my [Shell Basics](https://github.com/usfca-cs-tools/docs/blob/main/shell-basics.md) document.
+1. Terminal setup (<a onclick="toggle_display('terminal_mac')">Mac</a>, <a onclick="toggle_display('terminal_win')">Windows</a>)
+
+    <div id="terminal_mac" class="div-toggle" style="display:none" markdown=1>
+    For Mac:
+    - Apple's Terminal app should work ok
+    - I prefer [iTerm2](https://iterm2.com/) because it works well with my preferred terminal-mode editor, [micro](https://iterm2.com/)
+    </div>
+
+    <div id="terminal_win" class="div-toggle" style="display:none" markdown=1>
+    For Windows:
+    - I recommend using [Git For Windows](https://gitforwindows.org/). Git Bash offers a Unix-like shell environment.
+    - If you already have [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install), that's also fine
+    </div>
+
+1. You may use the terminal-mode editor of your choice (e.g. micro, nano, vim, emacs)
 ## Step 1: Set up `ssh` to connect to `stargate.cs.usfca.edu`
 
 1. From your laptop, edit `~/.ssh/config` and add these lines (<a onclick="toggle_display('config_mac')">Mac</a>, <a onclick="toggle_display('config_win')">Windows</a>)
@@ -102,7 +120,7 @@ title: SSH Stargate Setup
     ```
 1. Configure your `git` merge strategy (more on this later)
     ```sh
-    $ git config pull.rebase false
+    $ git config --global pull.rebase false
     ```
 
 <script>
