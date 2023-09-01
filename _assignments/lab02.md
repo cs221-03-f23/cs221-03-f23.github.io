@@ -4,6 +4,7 @@ due: 2023-09-05 23:59:59 -0800
 permalink: assignments/lab02.html
 title: Lab02 - Strings
 github_url: https://classroom.github.com/a/7cZ-aLv1
+published: true
 ---
 ## Requirements
 1. You will develop the C code and a `Makefile` which builds one executable
