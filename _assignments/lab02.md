@@ -8,7 +8,7 @@ published: true
 ---
 ## Requirements
 1. You will develop the C code and a `Makefile` which builds one executable
-called `lab02` (case sentitive) for the parts described below
+called `lab02` (case sensitive) for the parts described below
 1. You will use the `grade` script to test your results
 
 ## Given

@@ -1,10 +1,10 @@
 ---
 layout: assignment
-due: 2023-02-14 23:59:59 -0800
+due: 2023-09-12 23:59:59 -0800
 permalink: assignments/project01.html
 title: Project01 - Password Cracker
-# github_url: https://classroom.github.com/a/crZG8L3a
-published: false
+github_url: https://classroom.github.com/a/gu_YqNBr
+published: true
 ---
 
 ## Background
