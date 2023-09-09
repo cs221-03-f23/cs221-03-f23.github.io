@@ -49,7 +49,7 @@ collections:
 ordered-categories:
   - "Networking"
   - "Concurrency"
-  - "Memory and Linked Lists"
+  - "Memory and Files"
   - "Intro to C"
 
 reveal:

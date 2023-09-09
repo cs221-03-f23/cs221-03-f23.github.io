@@ -1,9 +1,9 @@
 ---
 layout: assignment
-due: 2023-02-21 23:59:59 -0800
+due: 2023-09-19 23:59:59 -0800
 permalink: assignments/lab03.html
 title: Lab03 - Files, struct
-# github_url: https://classroom.github.com/a/uYNNbcUN
+github_url: https://classroom.github.com/a/MkLozz3_
 published: false
 ---
 
@@ -11,7 +11,7 @@ published: false
 
 In C, it's very important to be careful when allocating memory, copying data between buffers, and working with files. In this lab, we will explore how to manage data in files, and also how to use `struct` to group relevant data. 
 
-In project01, the C program tried to find a plaintext password for the given hash. However, hashing 30,000 different passwords for every input is highly redundant and inefficient. Most password crackers hash the passwords once and store the pair (hash, password) in a file called Dictionary and use it for future cracking, thus called [Dictionary Attack](https://en.wikipedia.org/wiki/Dictionary_attack). 
+In project01, the C program tried to find a plaintext password for the given hash. However, hashing 30,000 different passwords for every input is highly redundant and inefficient. Most password crackers hash the passwords once and store the pair (hash, password) in a Dictionary file and use it for future cracking, thus called [Dictionary Attack](https://en.wikipedia.org/wiki/Dictionary_attack). 
 
 In lab03, you will develop a C program: lab03.c that creates a dictionary file from 10,000 given passwords, their leet versions, and the trailing-1 versions, and uses this dictionary file to find a password that matches a given hash.  
 
@@ -30,8 +30,8 @@ In lab03, you will develop a C program: lab03.c that creates a dictionary file f
 
 ## Given
 
-1. C file management functions demo in lecture.
-1. Any code from project01.
+1. C file management functions demo in lecture
+1. Any code from project01
 
 ## Example Output
 ```sh
