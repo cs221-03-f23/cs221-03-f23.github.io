@@ -4,7 +4,7 @@ due: 2023-09-19 23:59:59 -0800
 permalink: assignments/lab03.html
 title: Lab03 - Files, struct
 github_url: https://classroom.github.com/a/MkLozz3_
-published: false
+published: true
 ---
 
 ## Background
