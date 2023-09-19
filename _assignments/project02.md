@@ -1,10 +1,10 @@
 ---
 layout: assignment
-due: 2023-02-28 23:59:59 -0800
+due: 2023-09-26 23:59:59 -0800
 permalink: assignments/project02.html
 title: Project02 - Sorted Dictionary
-# github_url: https://classroom.github.com/a/X-i9Dw0f
-published: false
+github_url: https://classroom.github.com/a/0IMYH39L
+published: true
 ---
 
 ## Goal
