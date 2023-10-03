@@ -1,6 +1,6 @@
 ---
 layout: assignment
-due: 2023-10-11 23:59:59 -0800
+due: 2023-10-10 23:59:59 -0800
 permalink: assignments/project03.html
 title: Project03 - Tic-Tac-Toe using Minimax
 github_url: https://classroom.github.com/a/JcsS37UY
