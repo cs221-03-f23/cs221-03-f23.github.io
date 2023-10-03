@@ -50,7 +50,7 @@ O: 3 3
 
 **NB**: Since Minimax is a well-known algorithm, many explanations and implementations are available. You must develop your own original code, working individually.
 
-** Project03 requires interactive grading. Multiple-move game play and style will be graded during the interactive grading session. Not attending an interactive grading session will result in 0 for project03.**
+Project03 requires interactive grading. Multiple-move game play and style will be graded during the interactive grading session. **Not attending an interactive grading session will result in 0 for project03.**
 
 1. 70 pts: Correctness for a single move, tested by the `grade` script
 1. 20 pts: Multiple-move game play including validation of input and legal moves, tested manually
