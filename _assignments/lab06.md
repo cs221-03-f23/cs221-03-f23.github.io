@@ -1,10 +1,10 @@
 ---
 layout: assignment
-due: 2023-04-11 23:59:59 -0800
+due: 2023-10-31 23:59:59 -0800
 permalink: assignments/lab06.html
 title: Lab06 - Parsing
-# github_url: https://classroom.github.com/a/jzWlqwry
-published: false
+github_url: https://classroom.github.com/a/zvf6PSW4
+published: true
 ---
 
 {% assign img_base = site.url | append: site.baseurl | append: "/assets/img" %}
