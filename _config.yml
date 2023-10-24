@@ -48,6 +48,7 @@ collections:
 
 ordered-categories:
   - "Networking"
+  - "Programming Languages"
   - "Recursion and Games"
   - "Memory and Files"
   - "Intro to C"

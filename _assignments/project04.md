@@ -4,7 +4,7 @@ due: 2023-11-07 23:59:59 -0800
 permalink: assignments/project04.html
 title: Project04 - Expression Interpreter
 github_url: https://classroom.github.com/a/JcsS37UY
-published: true
+published: false
 ---
 
 ## Requirements
