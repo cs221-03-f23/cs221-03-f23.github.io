@@ -1,18 +1,18 @@
 ---
 layout: assignment
-due: 2023-05-08 23:59:59 -0800
+due: 2023-12-04 23:59:59 -0800
 permalink: assignments/project05.html
 title: Project05 - HTTP Server
-# github_url: https://classroom.github.com/a/8_ioS-5m
-published: false
+github_url: https://classroom.github.com/a/bNINg9qf
+published: true
 ---
 
 {% assign img_base = site.url | append: site.baseurl | append: "/assets/img" %}
 
 # IMPORTANT DATES
-1. Monday, May 8th: project due date.
-1. Wednesday, May 10th: Last day you may submit `project05` using late days. 
-1. Thursday, May 11th: peer-grading during the class time. Missing the peer-grading session without a prior arrangement with the instructor results in 0. 
+1. Monday, Dec 4th: project due date.
+1. Tuesday, Dec 5th: peer-grading during class time
+1. Wednesday, Dec 6th: Last day you may submit `project05` using late days. 
 
 ## Requirements
 
