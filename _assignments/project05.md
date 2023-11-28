@@ -21,13 +21,13 @@ published: true
 
 ## Example output
 
-1. You need to set up SSH port forwarding. If you were using port 9000 (use the same port number you used for lab07 and lab08) on `vlab31`, then run the following command so that your web browser's connection to `localhost` on port 9000 will be forwarded to `vlab31` on port 9000.
+1. You need to set up SSH port forwarding. If you were using port 9000 (use the same port number you used for lab07 and lab08) on `vlab07`, then run the following command so that your web browser's connection to `localhost` on port 9000 will be forwarded to `vlab07` on port 9000.
 
 	```sh
-	ssh -L 9000:vlab31:9000 stargate
+	ssh -L 9000:vlab07:9000 stargate
 	```
 
-1. Go to localhost:9000 on your web browser. Your HTTP server on `vlab31` should respond. For the content of your server, use the content of CS221 website ![as shown below]({{ img_base }}/project05_screenshot.png).
+1. Go to localhost:9000 on your web browser. Your HTTP server on `vlab07` should respond. For the content of your server, use the content of CS221 website ![as shown below]({{ img_base }}/project05_screenshot.png).
 
 1. Click on the links - the contents must match what you would see on the official CS221 website. 
 
@@ -36,11 +36,11 @@ published: true
 1. Download the content of cs221 course website to serve from your own web server. To scrape the site, run
 
 	```sh
-	wget --recursive --page-requisites --convert-links cs221.cs.usfca.edu
+	wget --recursive --page-requisites --convert-links cs221-03-f23.github.io
 	```
 1. If you wish to store the content in `www` directory, move the contents as follows.
 	```sh
-	mv cs221.cs.usfca.edu www
+	mv cs221-03-f23.github.io www
 	```
 1. You may use `fseek()` and `ftell()` function to get the size of the file for the `Content-Length: ` part. The following line puts the file position indicator for the stream pointed to by `stream`to the end of the file, and `ftell(stream)` returns the current offset (position) in bytes. 
 
